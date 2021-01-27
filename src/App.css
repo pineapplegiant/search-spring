@@ -1,0 +1,236 @@
+/* ==========================================================================
+Global Styles
+======================================================================== */
+:root {
+  --gray: #3f3e40;
+  --footer: 100px;
+  --gap: 20px;
+  --black: #000000;
+  --white: #ffffff;
+  --light-gray: #707070;
+  --background: #fcfcfc;
+  --search-img: 24px;
+  --logo-bg-height: 50px;
+  --logo-bg-width: 48px;
+  --container-width: 1250px;
+  --header-width: 1600px;
+  --search-background: rgba(112, 112, 112, 0.1);
+}
+
+input,
+button,
+a {
+  outline-color: var(--gray);
+}
+
+html {
+  background-color: var(--background);
+}
+
+/*Make footer sticky */
+#root {
+  padding-bottom: var(--footer);
+  position: relative;
+  min-height: 100vh;
+}
+
+/* ==========================================================================
+Header
+======================================================================== */
+header {
+  display: flex;
+  margin: 1.75rem auto;
+  max-width: var(--header-width);
+  padding: 1rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--gray);
+  width: var(--logo-bg-width);
+  height: var(--logo-bg-height);
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.logo__img,
+.shopping__img {
+  width: 26px;
+  height: 29px;
+}
+
+.shopping {
+  position: relative;
+}
+
+.shopping__count {
+  position: absolute;
+  top: 28px;
+  right: 6px;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: bold;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  display: inline-block;
+  background: var(--black);
+  border-radius: 100%;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  background-color: var(--search-background);
+  padding: 1rem;
+  height: 52px;
+  max-width: 220px;
+  border-radius: 10px;
+  width: 56vw;
+  max-width: 800px;
+}
+
+.search__img {
+  height: var(--search-img);
+  width: var(--search-img);
+}
+
+.search__input {
+  flex: 1;
+  padding: 0.5rem;
+  border: none;
+  background-color: transparent;
+}
+
+.search__submit-button {
+  border: none;
+}
+
+/* ==========================================================================
+Main/results
+======================================================================== */
+
+main {
+  max-width: var(--container-width);
+  margin: 0 auto;
+}
+
+/* ==========================================================================
+Pagination
+======================================================================== */
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.pagination:last-of-type {
+  margin: 2rem 0;
+}
+.active {
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+.pagination__title {
+  font-size: 1.25rem;
+  font-weight: bolder;
+}
+
+.arrow {
+  width: 10px;
+}
+
+.left {
+  transform: scaleX(-1);
+}
+
+.pagination__links {
+  display: flex;
+  align-items: center;
+}
+
+.pagination__link {
+  font-size: 1rem;
+  color: var(--black);
+  margin: 0 8px;
+}
+
+/* ==========================================================================
+Results
+======================================================================== */
+.results__response {
+  display: inline-flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: calc(-1 * var(--gap)) 0 0 calc(-1 * var(--gap));
+}
+
+.item {
+  margin: var(--gap) 0 0 var(--gap);
+}
+
+.item__img {
+  border-radius: 8px;
+  max-width: 250px;
+}
+
+.item__title {
+  margin: 6px 4px;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.item__price {
+  display: flex;
+  align-items: center;
+  margin: 4px;
+  justify-content: space-between;
+}
+
+.item__price__current {
+  font-size: 1.25rem;
+  font-weight: bolder;
+}
+
+.item__price__msrp {
+  font-size: 1rem;
+  color: var(--gray);
+  text-decoration: line-through;
+  margin-right: 8px;
+}
+
+/* ==========================================================================
+Footer (Not part of app)
+======================================================================== */
+footer {
+  display: flex;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  justify-content: center;
+  padding: 12px 0;
+  align-items: flex-end;
+  width: 100%;
+  height: var(--footer);
+  background: var(--gray);
+  color: var(--white);
+}
+
+footer p {
+  font-size: 0.75rem;
+}
+
+/* ==========================================================================
+Media Queries
+======================================================================== */
+@media only screen and (min-width: 600px) {
+}

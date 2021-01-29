@@ -6,9 +6,11 @@ Global Styles
   --footer: 100px;
   --gap: 20px;
   --black: #000000;
+  --pink: #FF9599;
   --white: #ffffff;
   --light-gray: #707070;
-  --background: #fcfcfc;
+  /*--background: #fcfcfc;*/
+  --background: #FFFEF7;
   --search-img: 24px;
   --logo-bg-height: 50px;
   --logo-bg-width: 48px;
@@ -29,7 +31,7 @@ html {
 
 /*Make footer sticky */
 #root {
-  padding-bottom: var(--footer);
+  padding-bottom: calc(var(--footer) + 70px);
   position: relative;
   min-height: 100vh;
 }
@@ -37,23 +39,34 @@ html {
 /* ==========================================================================
 Header
 ======================================================================== */
+.hero-text {
+  text-align: center;
+  font-style: italic;
+  font-weight: 400;
+  padding-top: 1rem;
+}
+
+
 header {
   display: flex;
-  margin: 1.75rem auto;
+  margin: 1rem auto 1.75rem auto;
   max-width: var(--header-width);
-  padding: 1rem 2rem;
+  padding: 1rem 2rem 2rem 1rem;
   align-items: center;
   justify-content: space-between;
+  border-bottom: 1px solid var(--black);
 }
 
 .logo-bg {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--gray);
+  /*background-color: var(--gray);*/
+  /*background-color: var(--black);*/
+  background: url(./polygon.svg) center no-repeat;
   width: var(--logo-bg-width);
   height: var(--logo-bg-height);
-  border-radius: 12px;
+  /*border-radius: 12px;*/
   cursor: pointer;
 }
 
@@ -72,7 +85,7 @@ header {
   position: absolute;
   top: 28px;
   right: 6px;
-  color: #ffffff;
+  color: var(--black);
   font-size: 12px;
   font-weight: bold;
   width: 20px;
@@ -80,7 +93,7 @@ header {
   line-height: 20px;
   text-align: center;
   display: inline-block;
-  background: var(--black);
+  background: var(--pink);
   border-radius: 100%;
 }
 
@@ -91,9 +104,10 @@ header {
   padding: 1rem;
   height: 52px;
   max-width: 220px;
-  border-radius: 10px;
+  /*border-radius: 10px;*/
   width: 56vw;
   max-width: 800px;
+  /*border: 1px solid var(--black);*/
 }
 
 .search__img {
@@ -117,7 +131,8 @@ Main/results
 ======================================================================== */
 
 main {
-  max-width: var(--container-width);
+  /*max-width: var(--container-width);*/
+  max-width: var(--header-width);
   margin: 0 auto;
 }
 
@@ -169,18 +184,21 @@ Pagination
 Results
 ======================================================================== */
 .results__response {
-  display: inline-flex;
+  display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  margin: calc(-1 * var(--gap)) 0 0 calc(-1 * var(--gap));
+  /*margin: calc(-1 * var(--gap)) 0 0 calc(-1 * var(--gap));*/
 }
 
 .item {
   margin: var(--gap) 0 0 var(--gap);
+  border: 1px solid var(--black);
+  padding: 10px;
 }
 
 .item__img {
-  border-radius: 8px;
+  /*border-radius: 8px;*/
+  padding: 20px;
   max-width: 250px;
 }
 
@@ -188,6 +206,7 @@ Results
   margin: 6px 4px;
   font-size: 1rem;
   font-weight: 400;
+  cursor: pointer;
 }
 
 .item__price {
@@ -222,8 +241,9 @@ footer {
   align-items: flex-end;
   width: 100%;
   height: var(--footer);
-  background: var(--gray);
-  color: var(--white);
+  /*background: var(--gray);*/
+  border-top: 1px solid var(--black);
+  color: var(--black);
 }
 
 footer p {

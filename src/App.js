@@ -6,6 +6,7 @@ import search from "./search.svg";
 //import Pagination from "./Pagination";
 import Item from "./Item";
 import useFetch from "./useFetch";
+import Loader from "react-loader-spinner";
 
 function App() {
   const [input, setInput] = useState(""); // Keep track of search input
@@ -21,6 +22,7 @@ function App() {
 
   return (
     <>
+      <h1 className="hero-text">Search Springly Fashion</h1>
       <header>
         <Logo />
         <form onSubmit={handleSubmit} className="search">
@@ -45,7 +47,13 @@ function App() {
       <main className="results">
         <div className="results__response">
           {loading ? (
-            <div>LOADING RESULTS..</div>
+            <Loader
+              type="Oval"
+              color="#707070"
+              height={100}
+              width={100}
+              timeout={3000}
+            />
           ) : hasError ? (
             <div>An error has occurred in your request</div>
           ) : (

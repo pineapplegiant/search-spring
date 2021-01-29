@@ -1,15 +1,26 @@
 import React from "react";
 
 function Item(props) {
-  const genericImg = "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/6282_copyright_reddressboutique_2017__large.jpg"
+  //const genericImg = "https://dummyimage.com/467x700/#/0011ff.jpg"
+  const genericImg = "https://placekitten.com/467/700";
+
+  // If no image loads we'll put a new one
+  const addDefaultSrc = (event) => {
+    event.target.src = genericImg;
+  }
+
   return (
     <div className="item">
       <img
         className="item__img"
-        src={props.imageUrl ? props.imageUrl: genericImg}
-        alt={props.name? props.name.split(" ").slice(-3) : "lol"}
+        src={props.imageUrl ? props.imageUrl : genericImg}
+        alt={props.name}
+        onError={addDefaultSrc}
       />
-      <h1 className="item__title">{props.title}</h1>
+      <h1 className="item__title">
+        {/* Grab the last 3 words of the title */}
+        {props.title ? props.title.split(" ").slice(-3).join(" ") : "lol"}
+      </h1>
       <div className="item__price">
         <p className="item__price__current">${props.price}</p>
         <p className="item__price__msrp">${props.msrp}</p>

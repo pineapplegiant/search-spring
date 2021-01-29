@@ -1,0 +1,2606 @@
+{
+  "pagination": {
+    "totalResults": 124,
+    "begin": 1,
+    "end": 24,
+    "currentPage": 1,
+    "totalPages": 6,
+    "previousPage": 0,
+    "nextPage": 2,
+    "perPage": 24,
+    "defaultPerPage": 24
+  },
+  "sorting": {
+    "options": [
+      { "field": "relevance", "direction": "desc", "label": "Best Match" },
+      { "field": "sales_rank", "direction": "desc", "label": "Most Popular" },
+      { "field": "title", "direction": "asc", "label": "Name (A - Z)" },
+      { "field": "price", "direction": "desc", "label": "Price ($$$ - $)" },
+      { "field": "title", "direction": "desc", "label": "Name (Z - A)" },
+      { "field": "price", "direction": "asc", "label": "Price ($ - $S$)" }
+    ]
+  },
+  "resultLayout": "grid",
+  "results": [
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrV9TTXDTA0sDRmMARCIxMGQyNjhvSizBQA-8QKdQ",
+      "intellisuggestSignature": "d37fa0fd7be804d838ee6e915664dd0524685b8e85cc07c8a61918aa175dafbd",
+      "ss_insights_quadrant": "Best Performer",
+      "gross_margin": "41",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "Dark Wash Skinny Jeans",
+        "Dark Wash",
+        "Skinny Jeans",
+        "Jeans",
+        "Denim",
+        "Skinnies",
+        "Classic Denim"
+      ],
+      "color": ["Blue"],
+      "multi_colors": "no",
+      "description": "The only crime you\u2019ll be guilty of in these Basic Instincts Dark Wash Skinny Jeans is looking fly! And the only thing you\u2019ll be killing is the style game! These skinny jeans feature standard 5 pocket styling, a zipper button fly, and belt loops. \u2022 49% Rayon, 32% Cotton, 17% Polyester, 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "Basic Instincts Dark Wash Skinny Jeans",
+      "ss_clicks": "3318",
+      "color_family": ["Blue"],
+      "sales_rank": "4338",
+      "ss_sale_price": "49",
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "All Bottoms&gt;Pants",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Comfy Casual",
+        "All Bottoms",
+        "Gifts for Her",
+        "Gifts for Her&gt;Gifts Under $50"
+      ],
+      "on_sale": "No",
+      "collection": "Basic Instincts",
+      "condition": "New",
+      "product_type": [
+        "Shop By Trend &gt; Comfy Casual",
+        "All Bottoms &gt; Pants",
+        "All Bottoms &gt; Denim",
+        "All Bottoms",
+        "Gifts for Her",
+        "Gifts for Her &gt; Gifts Under $50"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "8",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "quantity_available": "54",
+      "uid": "168434",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/187_3556_copyright_reddressboutique_2016_thumb_med.jpg",
+      "price": "49",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/187_3556_copyright_reddressboutique_2016_large.jpg",
+      "popularity": "4338",
+      "name": "Basic Instincts Dark Wash Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "d2f845f65af3b41b0f3e417f24103c5b",
+      "sku": "C-JU-I7-P1093",
+      "brand": "Just USA",
+      "url": "/product/C-JU-I7-P1093"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrVdTfXdQowNPBiMGQwYjAyYTA0MmZIL8pMAQD93wqU",
+      "intellisuggestSignature": "f6499c73b7ee9d70ee56fb05635dd790f20d2da3bae7142a7a2fcba98504ce8f",
+      "ss_insights_quadrant": "Poor Performer",
+      "gross_margin": "59",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "black",
+        "jeans",
+        "skinnies",
+        "distressed",
+        "ripped",
+        "hole",
+        "denim",
+        "everyday",
+        "every day"
+      ],
+      "color": ["Black"],
+      "multi_colors": "no",
+      "description": "Ever Cool and always stunning, you\u2019ll look incredible each time you put on these Black Distressed Skinny Jeans! These super soft and chic jeans are great any time of the year! These skinny jeans feature standard 5 pocket styling, belt loops, button fly closure, and distressed detail on the front. \u2022 52% Rayon, 26% Cotton, 21% Polyester, 1% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "Ever Cool Black Distressed Skinny Jeans",
+      "ss_clicks": "658",
+      "color_family": ["Black"],
+      "condition": "New",
+      "sales_rank": "3845",
+      "ss_sale_price": "48",
+      "product_type": [
+        "Shop By Trend &gt; Comfy Casual",
+        "Shop By Trend &gt; Girl's Night Out",
+        "Brands We Love &gt; Just USA + Just Black",
+        "All Bottoms &gt; Pants",
+        "All Bottoms &gt; Denim",
+        "Style Influencer &gt; Cortney Dryden",
+        "Gifts for Her",
+        "Gifts for Her &gt; Gifts Under $50"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "4",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "Shop By Trend&gt;Girl's Night Out",
+        "All Bottoms&gt;Pants",
+        "All Bottoms&gt;Denim",
+        "Style Influencer&gt;Cortney Dryden",
+        "Shop By Trend&gt;Comfy Casual",
+        "All Bottoms",
+        "Style Influencer",
+        "Brands We Love&gt;Just USA + Just Black",
+        "Gifts for Her",
+        "Gifts for Her&gt;Gifts Under $50",
+        "Brands We Love"
+      ],
+      "on_sale": "No",
+      "quantity_available": "51",
+      "uid": "178924",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/17_03_01_studio_020505copyright_reddressboutique__1_thumb_med.jpg",
+      "price": "48",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/17_03_01_studio_020505copyright_reddressboutique__1_large.jpg",
+      "popularity": "3845",
+      "name": "Ever Cool Black Distressed Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "3f2c9f9e48d0a14dc29d3863682c783a",
+      "sku": "C-JU-G7-BP10J",
+      "brand": "Just USA",
+      "url": "/product/C-JU-G7-BP10J"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrVDTfUdQowNPBiMGQwZjAyYTA0MmZIL8pMAQD-4gqf",
+      "intellisuggestSignature": "056d5f406c0dc34df0a3aa5b872544036dd74c7d1540c39cb83e7949259d6f36",
+      "ss_insights_quadrant": "Poor Performer",
+      "gross_margin": "52",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "white",
+        "jeans",
+        "skinnies",
+        "distressed",
+        "ripped",
+        "hole",
+        "denim",
+        "everyday",
+        "every day"
+      ],
+      "color": ["White"],
+      "multi_colors": "no",
+      "description": "Ever Cool and always stunning, you\u2019ll look incredible each time you put on these White Distressed Skinny Jeans! These super soft and chic jeans are great any time of the year! These skinny jeans feature standard 5 pocket styling, belt loops, button fly closure, and distressed detail on the front. \u2022 52% Rayon, 26% Cotton, 21% Polyester, 1% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "Ever Cool White Distressed Skinny Jeans",
+      "ss_clicks": "2954",
+      "color_family": ["White"],
+      "condition": "New",
+      "sales_rank": "3304",
+      "ss_sale_price": "48",
+      "product_type": [
+        "Shop By Trend &gt; Comfy Casual",
+        "Shop By Trend &gt; Summer Staples",
+        "Style Influencer &gt; Cortney Dryden",
+        "Brands We Love &gt; Just USA + Just Black",
+        "All Bottoms &gt; Denim",
+        "All Bottoms &gt; Pants",
+        "Gifts for Her",
+        "Gifts for Her &gt; Gifts Under $50"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "28",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "All Bottoms&gt;Pants",
+        "Style Influencer&gt;Cortney Dryden",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Comfy Casual",
+        "Shop By Trend&gt;Summer Staples",
+        "Style Influencer",
+        "All Bottoms",
+        "Brands We Love&gt;Just USA + Just Black",
+        "Gifts for Her",
+        "Gifts for Her&gt;Gifts Under $50",
+        "Brands We Love"
+      ],
+      "on_sale": "No",
+      "quantity_available": "16",
+      "uid": "171303",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/rdb_studio_2_3221_thumb_med.jpg",
+      "price": "48",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/rdb_studio_2_3221_large.jpg",
+      "popularity": "3304",
+      "name": "Ever Cool White Distressed Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "9711b3faabbfb2aa230d0985152372f2",
+      "sku": "C-JU-W1-BP10J",
+      "brand": "Just USA",
+      "url": "/product/C-JU-W1-BP10J"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrVDTfUdQowtfRiMGQwYTAyYTA0MmZIL8pMAQD_3Qqt",
+      "intellisuggestSignature": "5dc9fc1f0e56f77c53dd9698a6f23d2ae4d2510f4671d88664b2da30661d7109",
+      "ss_insights_quadrant": "Best Performer",
+      "gross_margin": "64",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "white",
+        "jeans",
+        "skinnies",
+        "distressed",
+        "ripped",
+        "hole",
+        "denim",
+        "everyday",
+        "every day"
+      ],
+      "color": ["White"],
+      "multi_colors": "no",
+      "description": "You've never been one to play the damsel in distress before, and you're certainly not about to start doing it now. I mean, there's this guy at the office and he's just so delicious. It would be wonderful if someone would go ahead and take him off the table so you could stop thinking about him already. Well, you heard that he's into this whole, rescue the princess thing and you definitely don't need to be rescued. Though, he could seriously give any Hemsworth a run for his money ... so maybe you could slip into these 'distressed' skinny jeans after work one night and just try to make it work. Oh, those abs. I mean come on, for crying out loud. You wouldn't even need a washing machine. Might be worth pretending to need help changing a tire or something. \u2022 52% Rayon, 26% Cotton, 21% Polyester, 1% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "New Level White Distressed Skinny Jeans",
+      "ss_clicks": "4430",
+      "color_family": ["White"],
+      "condition": "New",
+      "sales_rank": "3185",
+      "ss_sale_price": "55",
+      "product_type": [
+        "Shop By Trend &gt; Girl's Night Out",
+        "Shop By Trend &gt; Comfy Casual",
+        "Brands We Love &gt; Just USA + Just Black",
+        "All Bottoms &gt; Pants",
+        "All Bottoms &gt; Denim",
+        "Shop By Trend &gt; Summer Staples",
+        "Gifts for Her"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "14",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "Shop By Trend&gt;Girl's Night Out",
+        "All Bottoms&gt;Pants",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Comfy Casual",
+        "Shop By Trend&gt;Summer Staples",
+        "All Bottoms",
+        "Brands We Love&gt;Just USA + Just Black",
+        "Gifts for Her",
+        "Brands We Love"
+      ],
+      "on_sale": "No",
+      "quantity_available": "48",
+      "uid": "175159",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/17_1_12_studio_set_1_402_thumb_med.jpg",
+      "price": "55",
+      "msrp": "75",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/17_1_12_studio_set_1_402_large.jpg",
+      "popularity": "3185",
+      "name": "New Level White Distressed Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "ed4595369fcc3108b89fbf6ddaef1544",
+      "sku": "C-JU-W1-BP59J",
+      "brand": "Just USA",
+      "url": "/product/C-JU-W1-BP59J"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDWDfbz1g031A2wNDU2ZTBkMGUwMmEwNDJmSC_KTAEACtkK1w",
+      "intellisuggestSignature": "6d40b31abe2b531be19b6d4179af0ff813ac889bf492ea0bfb2fa29143d2bf7f",
+      "ss_insights_quadrant": "Poor Performer",
+      "gross_margin": "51",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "jeans",
+        "denim",
+        "white jeans",
+        "distressed",
+        "distressed jeans",
+        "fray",
+        "frayed ends",
+        "frayed jeans",
+        "white wash",
+        "white denim",
+        "skinny jeans"
+      ],
+      "color": ["White"],
+      "multi_colors": "no",
+      "description": "The versatility of distressed skinny jeans is one of the greatest things on earth--right next to oxford button down shirts and cardigans. This pair in particular is a favorite of ours. It's trendy, but will stay in style for years to come. It can be dressed up and down, and frankly, it looks cool as all get out. They're the kind of jeans we can see ourselves falling asleep on the couch in after a few too many drinks (and likely will, if girls' night goes as planned). Model is wearing a size 1. \u2022 98% Cotton 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Imported",
+      "collection": "Above The Fray",
+      "title": "Above The Fray White Distressed Skinny Jeans",
+      "ss_clicks": "1730",
+      "color_family": ["White"],
+      "condition": "New",
+      "sales_rank": "2990",
+      "ss_sale_price": "42",
+      "product_type": [
+        "Shop By Trend &gt; So Seventies",
+        "Shop By Trend &gt; White Haute",
+        "All Bottoms &gt; Denim",
+        "Shop By Trend &gt; Summer Staples",
+        "Shop By Trend",
+        "What's New",
+        "Gifts for Her",
+        "Gifts for Her &gt; Gifts Under $50"
+      ],
+      "size": ["1", "3", "5", "7", "9", "11", "13"],
+      "material": "Cotton",
+      "days_since_published": "21",
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Summer Staples",
+        "All Bottoms",
+        "What's New",
+        "Gifts for Her",
+        "Shop By Trend&gt;So Seventies",
+        "Gifts for Her&gt;Gifts Under $50",
+        "Shop By Trend&gt;White Haute"
+      ],
+      "on_sale": "No",
+      "quantity_available": "42",
+      "uid": "182922",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/5506_copyright_reddressboutique_2017__thumb_med.jpg",
+      "price": "42",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/5506_copyright_reddressboutique_2017__large.jpg",
+      "popularity": "2990",
+      "name": "Above The Fray White Distressed Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "a469061a0b865d29ad5b96838ca29450",
+      "sku": "C-SNK-W1-P9535",
+      "brand": "Sneak Peek",
+      "url": "/product/C-SNK-W1-P9535"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrVdTfVDTA0MDBjMGQwYzAyYTA0MmZIL8pMAQD7OApw",
+      "intellisuggestSignature": "00ecd196825b395fb89341d240f9598a6d6047fb0c1d592d8ea7a0cc0dec98e3",
+      "ss_insights_quadrant": "Under Exposed",
+      "gross_margin": "56",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "Skinny Jeans",
+        "Skinnies",
+        "Grey",
+        "Gray",
+        "Storm Grey",
+        "Dark Grey",
+        "Charcoal",
+        "Denim",
+        "Jeans",
+        "Jeggings",
+        "Classic"
+      ],
+      "color": ["Gray"],
+      "multi_colors": "no",
+      "description": "Stand Tall in these stunning Storm Grey Skinny Jeans, and don\u2019t look down unless it\u2019s to admire your shoes! You\u2019ll be holding your head high and setting the style standard way up there when you\u2019re in these amazing jeans! These skinny jeans feature standard 5-pockets with rivets and a button zipper fly. \u2022 55% Rayon, 26% Cotton, 18% Polyester, 1% Spandex \u2022 Machine wash cold. \u2022 Unlined \u2022 Made in the USA",
+      "title": "Stand Tall Storm Gray Skinny Jeans",
+      "ss_clicks": "1206",
+      "color_family": ["Gray"],
+      "sales_rank": "900",
+      "ss_sale_price": "48",
+      "ss_category_hierarchy": [
+        "All Sale",
+        "Gifts for Her",
+        "All Sale&gt;50% off",
+        "Gifts for Her&gt;Gifts Under $50",
+        "All Sale&gt;Bottoms on Sale"
+      ],
+      "on_sale": "Yes",
+      "sale_price": "24",
+      "condition": "New",
+      "product_type": [
+        "All Sale &gt; 50% off",
+        "All Sale &gt; Bottoms on Sale",
+        "All Sale",
+        "Gifts for Her",
+        "Gifts for Her &gt; Gifts Under $50"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "7",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "quantity_available": "16",
+      "uid": "171076",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/rdb_studio_2_3343_thumb_med.jpg",
+      "price": "48",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/rdb_studio_2_3343_large.jpg",
+      "popularity": "900",
+      "name": "Stand Tall Storm Gray Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "d54a306f75d9121bab89246e51e6d7df",
+      "sku": "C-JU-G5-P1006",
+      "brand": "Just USA",
+      "url": "/product/C-JU-G5-P1006"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrV9TTWDTA0MDZhMGQwZzACUkbGDOlFmSkA-1sKcg",
+      "intellisuggestSignature": "8b6ff0f5b9459060214f41d8540c53e5fbbb1b625724c917e4d748b65d2f1059",
+      "ss_insights_quadrant": "Under Exposed",
+      "gross_margin": "54",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "jeans",
+        "pants",
+        "jeggings",
+        "skinnies",
+        "skinny jean",
+        "skinny pants",
+        "denim",
+        "colored jeans",
+        "distressed denim",
+        "distressed jeans",
+        "distressed pants",
+        "ripped knees",
+        "ripped jeans",
+        "ripped pants",
+        "dark wash",
+        "dark denim",
+        "just usa"
+      ],
+      "color": ["Blue"],
+      "multi_colors": "no",
+      "description": "Off She Goes, doing her thing and getting things done, and stylishly so, in these Medium Wash Skinny Jeans! Get it, girl! These skinny jeans feature standard 5 pocket styling, belt loops, zipper button fly, and rips at the knees. \u2022 75% Cotton, 23% Polyester, 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "Off She Goes Medium Wash Skinny Jeans",
+      "ss_clicks": "1964",
+      "color_family": ["Blue"],
+      "condition": "New",
+      "sales_rank": "596",
+      "ss_sale_price": "58",
+      "product_type": [
+        "Brands We Love &gt; Just USA + Just Black",
+        "All Bottoms &gt; Denim",
+        "Shop By Trend &gt; Comfy Casual",
+        "What's New",
+        "All Bottoms",
+        "Shop By Trend",
+        "Gifts for Her"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "3",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Comfy Casual",
+        "All Bottoms",
+        "Brands We Love&gt;Just USA + Just Black",
+        "What's New",
+        "Gifts for Her",
+        "Brands We Love"
+      ],
+      "on_sale": "No",
+      "quantity_available": "97",
+      "uid": "175432",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/17_1_12_studio_set_1_444_1_thumb_med.jpg",
+      "price": "58",
+      "msrp": "75",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/17_1_12_studio_set_1_444_1_large.jpg",
+      "popularity": "596",
+      "name": "Off She Goes Medium Wash Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "d3c975a0fca48dace45299cb427210c1",
+      "sku": "C-JU-I3-P1034",
+      "brand": "Just USA",
+      "url": "/product/C-JU-I3-P1034"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrVdTXTDTA0MDBjMGSwYDAyYTA0MmZIL8pMAQD7OQpx",
+      "intellisuggestSignature": "a1a52dc3cd375214e9d247f0bcac8272f230adee2f89dea82fa813e85ad27568",
+      "ss_insights_quadrant": "Poor Performer",
+      "gross_margin": "65",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "skinny jeans",
+        "skinnie jeans",
+        "skinnies",
+        "skinny pants",
+        "skinnie",
+        "spandex",
+        "jeggings",
+        "jeans"
+      ],
+      "color": ["Olive"],
+      "multi_colors": "no",
+      "description": "Only the brave and proud need to come forward and make these Stand Tall Olive Green Skinny Jeans come to life! Once they\u2019re gracing your frame, the slight urge to Stand Tall is sure to come over a beauty who may only be 5\u20191\u201d, but feels 5\u201910\u201d like Cindy Crawford! Don\u2019t be the girl who is not giving the look of a few extra inches of height by missing out on these jeans that come with that quality!! These skinny jeans feature standard 5-pockets with rivets, belt loops, and a button zipper fly. \u2022 55% Rayon, 26% Cotton, 18% Polyester, 1% Spandex \u2022 Machine wash cold. \u2022 Unlined \u2022 Made in the USA",
+      "title": "Stand Tall Olive Green Skinny Jeans",
+      "ss_clicks": "2735",
+      "color_family": ["Green"],
+      "sales_rank": "560",
+      "ss_sale_price": "48",
+      "ss_category_hierarchy": [
+        "All Sale",
+        "Gifts for Her",
+        "All Sale&gt;50% off",
+        "Gifts for Her&gt;Gifts Under $50",
+        "All Sale&gt;Bottoms on Sale"
+      ],
+      "on_sale": "Yes",
+      "sale_price": "24",
+      "condition": "New",
+      "product_type": [
+        "All Sale &gt; 50% off",
+        "All Sale &gt; Bottoms on Sale",
+        "All Sale",
+        "Gifts for Her",
+        "Gifts for Her &gt; Gifts Under $50"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "28",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "quantity_available": "6",
+      "uid": "160288",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/478a3325_2_thumb_med.jpg",
+      "price": "48",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/478a3325_2_large.jpg",
+      "popularity": "560",
+      "name": "Stand Tall Olive Green Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "a338292bb15a82c27b8851147be77157",
+      "sku": "C-JU-E6-P1006",
+      "brand": "Just USA",
+      "url": "/product/C-JU-E6-P1006"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrVdTfXdQowtfRiMGSwZDAyYTA0MmZIL8pMAQD_KAqo",
+      "intellisuggestSignature": "1280cd8122c5469ef9f4dede8e3da7b36ef6a73f53633b42566b889e5bc588f7",
+      "ss_insights_quadrant": "Under Exposed",
+      "gross_margin": "55",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "black",
+        "jeans",
+        "skinnies",
+        "distressed",
+        "ripped",
+        "hole",
+        "denim",
+        "everyday",
+        "every day",
+        "black skinny jeans"
+      ],
+      "color": ["Black"],
+      "multi_colors": "no",
+      "description": "You've never been one to play the damsel in distress before, and you're certainly not about to start doing it now. I mean, there's this guy at the office and he's just so delicious. It would be wonderful if someone would go ahead and take him off the table so you could stop thinking about him already. Well, you heard that he's into this whole, rescue the princess thing and you definitely don't need to be rescued. Though, he could seriously give any Hemsworth a run for his money ... so maybe you could slip into these 'distressed' skinny jeans after work one night and just try to make it work. Oh, those abs. I mean come on, for crying out loud. You wouldn't even need a washing machine. Might be worth pretending to need help changing a tire or something. \u2022 52% Rayon, 26% Cotton, 21% Polyester, 1% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "New Level Black Distressed Skinny Jeans",
+      "ss_clicks": "1489",
+      "color_family": ["Black"],
+      "condition": "New",
+      "sales_rank": "512",
+      "ss_sale_price": "55",
+      "product_type": [
+        "Shop By Trend &gt; Girl's Night Out",
+        "Shop By Trend &gt; Comfy Casual",
+        "Brands We Love &gt; Just USA + Just Black",
+        "All Bottoms &gt; Pants",
+        "All Bottoms &gt; Denim",
+        "Shop By Trend &gt; Summer Staples",
+        "Gifts for Her"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "26",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "Shop By Trend&gt;Girl's Night Out",
+        "All Bottoms&gt;Pants",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Comfy Casual",
+        "Shop By Trend&gt;Summer Staples",
+        "All Bottoms",
+        "Brands We Love&gt;Just USA + Just Black",
+        "Gifts for Her",
+        "Brands We Love"
+      ],
+      "on_sale": "No",
+      "quantity_available": "48",
+      "uid": "180056",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/3010_copyright_reddressboutique_2017_thumb_med.jpg",
+      "price": "55",
+      "msrp": "75",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/3010_copyright_reddressboutique_2017_large.jpg",
+      "popularity": "512",
+      "name": "New Level Black Distressed Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "da6c16a09cc7ebc6209fe14d76bd5bb2",
+      "sku": "C-JU-G7-BP59J",
+      "brand": "Just USA",
+      "url": "/product/C-JU-G7-BP59J"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDWDXbS9TTXDTY3MGQAQgMGIxMGQyNjhvSizBQA-l8KaQ",
+      "intellisuggestSignature": "884821c07e548d71c127ab5bc1999bea193f99c40764c7f2fcbd5dea990b3263",
+      "ss_insights_quadrant": "Over Exposed",
+      "gross_margin": "47",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "denim",
+        "jeans",
+        "skinnies",
+        "skinny jeans",
+        "basic",
+        "staple",
+        "casual",
+        "cool",
+        "fall",
+        "back to school",
+        "blue",
+        "dark blue",
+        "dark wash",
+        "versatile"
+      ],
+      "color": ["Blue"],
+      "multi_colors": "no",
+      "description": "These Dark Wash Skinny Jeans are so flattering and versatile that they\u2019ll be your Everyday Pick! You can\u2019t go wrong with these sightly skinnies! These dark wash skinny jeans feature standard 5 pocket styling, belt loops, zipper button fly closure, whiskering, and a light fade around the knees. \u2022 98% Cotton, 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Imported",
+      "title": "Everyday Pick Dark Wash Skinny Jeans",
+      "ss_clicks": "3032",
+      "color_family": ["Blue"],
+      "sales_rank": "2895",
+      "ss_sale_price": "38",
+      "season": "Fall",
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "All Bottoms&gt;Pants",
+        "All Bottoms&gt;Denim",
+        "All Bottoms",
+        "What's New",
+        "Gifts for Her",
+        "Gifts for Her&gt;Gifts Under $50"
+      ],
+      "on_sale": "No",
+      "condition": "New",
+      "product_type": [
+        "All Bottoms &gt; Denim",
+        "All Bottoms &gt; Pants",
+        "Shop By Trend",
+        "What's New",
+        "All Bottoms",
+        "Gifts for Her",
+        "Gifts for Her &gt; Gifts Under $50"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30"],
+      "material": "Cotton",
+      "days_since_published": "89",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30"],
+      "quantity_available": "23",
+      "uid": "158078",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/rdb_studio_2_4288_thumb_med.jpg",
+      "price": "38",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/rdb_studio_2_4288_large.jpg",
+      "popularity": "2895",
+      "name": "Everyday Pick Dark Wash Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "18e3009dd3901ecafbe7eba30ee9e212",
+      "sku": "C-SB-I7-S701",
+      "brand": "Scarlet Boulevard",
+      "url": "/product/C-SB-I7-S701"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrVDTfUDTA0MDZhMGQwNGQwAtJGxgzpRZkpAAaRCqk",
+      "intellisuggestSignature": "e409bfea0ed6fa2889daaa77f9fe441fc96ba2cdbdfac06ab6ae697697695d0c",
+      "ss_insights_quadrant": "Over Exposed",
+      "gross_margin": "46",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "white jeans",
+        "pants",
+        "jeggings",
+        "skinnies",
+        "skinny jean",
+        "skinny pants",
+        "denim",
+        "colored jeans",
+        "distressed denim",
+        "distressed jeans",
+        "distressed pants",
+        "ripped knees",
+        "ripped jeans",
+        "ripped pants",
+        "dark wash",
+        "dark denim",
+        "just usa"
+      ],
+      "color": ["White"],
+      "multi_colors": "no",
+      "description": "Off She Goes, doing her thing and getting things done, and stylishly so, in these White Skinny Jeans! Get it, girl! These skinny jeans feature standard 5 pocket styling, belt loops, zipper button fly, and rips at the knees. \u2022 75% Cotton, 23% Polyester, 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "Off She Goes White Skinny Jeans",
+      "ss_clicks": "804",
+      "color_family": ["White"],
+      "condition": "New",
+      "sales_rank": "4455",
+      "ss_sale_price": "58",
+      "product_type": [
+        "Shop By Trend &gt; Spring Preview",
+        "Brands We Love &gt; Just USA + Just Black",
+        "All Bottoms &gt; Denim",
+        "Shop By Trend &gt; Comfy Casual",
+        "Shop By Trend",
+        "What's New",
+        "Gifts for Her"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "143",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Spring Preview",
+        "Shop By Trend&gt;Comfy Casual",
+        "All Bottoms",
+        "Brands We Love&gt;Just USA + Just Black",
+        "What's New",
+        "Gifts for Her",
+        "Brands We Love"
+      ],
+      "on_sale": "No",
+      "quantity_available": "37",
+      "uid": "175547",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/use_3_thumb_med.jpg",
+      "price": "58",
+      "msrp": "75",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/use_3_large.jpg",
+      "popularity": "4455",
+      "name": "Off She Goes White Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "8302c4b4455c182790d6980b6cce85fa",
+      "sku": "C-JU-W1-P1034",
+      "brand": "Just USA",
+      "url": "/product/C-JU-W1-P1034"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrV9TTT9QowNzRnMGQwNGIwMgGSxgzpRZkpAAhbCsI",
+      "intellisuggestSignature": "21830108639fa9c3caf47c32a8fff3b2a7e7e3891ee95bf7d4bd10957efd8233",
+      "ss_insights_quadrant": "Over Exposed",
+      "gross_margin": "62",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "jean",
+        "jeggings",
+        "skinnies",
+        "stretchy jeans",
+        "faded wash",
+        "medium wash jean",
+        "distressed jean",
+        "distressed denim"
+      ],
+      "color": ["Blue"],
+      "multi_colors": "no",
+      "description": "Bed head curls and a carelessly tucked tee, some things look even better when they\u2019re roughed up a little, such as our Rough Up Dark Blue Skinny Jeans. A little distressed denim does just the opposite to your style game. It\u2019s only a bonus. These distressed skinny jeans feature a standard 5-pocket styling and a zipper button fly. \u2022 73% Cotton, 14% Rayon, 11% Polyester, 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Imported",
+      "title": "Rough Up Dark Blue Skinny Jeans",
+      "ss_clicks": "1163",
+      "color_family": ["Blue"],
+      "condition": "New",
+      "sales_rank": "4409",
+      "ss_sale_price": "42",
+      "product_type": [
+        "Shop By Trend &gt; Comfy Casual",
+        "All Bottoms &gt; Pants",
+        "All Bottoms &gt; Denim",
+        "Shop By Trend",
+        "All Bottoms",
+        "Gifts for Her",
+        "Gifts for Her &gt; Gifts Under $50"
+      ],
+      "size": ["1", "3", "5", "7", "9", "11", "13"],
+      "material": "Denim",
+      "days_since_published": "111",
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "All Bottoms&gt;Pants",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Comfy Casual",
+        "All Bottoms",
+        "Gifts for Her",
+        "Gifts for Her&gt;Gifts Under $50"
+      ],
+      "on_sale": "No",
+      "quantity_available": "8",
+      "uid": "169637",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/rdb_studio_2_3312_thumb_med.jpg",
+      "price": "42",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/rdb_studio_2_3312_large.jpg",
+      "popularity": "4409",
+      "name": "Rough Up Dark Blue Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "2f91a98a5ace84e3f42a0054a59225b5",
+      "sku": "C-JU-I6-JP717",
+      "brand": "Just USA",
+      "url": "/product/C-JU-I6-JP717"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrV9TTTdQowMPZiMGQwNGYwMmEwNDJmSC_KTAEACKgKyQ",
+      "intellisuggestSignature": "d3bcd2f8a1a4c02e699828a08caf9b36f84cfa2c48bf52a79cce1991041a2e9b",
+      "ss_insights_quadrant": "Over Exposed",
+      "gross_margin": "33",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "denim",
+        "dark denim",
+        "skinny jeans",
+        "skinnies",
+        "jeggings",
+        "blue jeans",
+        "dark wash",
+        "dark jeans"
+      ],
+      "color": ["Blue"],
+      "multi_colors": "no",
+      "description": "Whatever attire the day calls for, you\u2019ll Step It Up when you slip into these Dark Denim Skinny Jeans. Paired with a tucked tee, blazer, statement necklace, and heels, or a graphic tee and flats, these dark denim skinnies will have you looking effortlessly sleek and sophisticated. It\u2019s never been so easy! These skinny jeans feature standard 5 pocket styling, a button fly closure, and belt loops. \u2022 52% Rayon, 26% Cotton, 20% Polyester, 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "Step It Up Dark Denim Skinny Jeans",
+      "ss_clicks": "1022",
+      "color_family": ["Blue"],
+      "condition": "New",
+      "sales_rank": "4349",
+      "ss_sale_price": "52",
+      "product_type": [
+        "Shop By Trend &gt; Comfy Casual",
+        "Shop By Trend &gt; Girl's Night Out",
+        "All Bottoms &gt; Pants",
+        "All Bottoms &gt; Denim",
+        "Shop By Trend &gt; Summer Staples",
+        "Shop By Trend",
+        "Gifts for Her"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Denim",
+      "days_since_published": "84",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "Shop By Trend&gt;Girl's Night Out",
+        "All Bottoms&gt;Pants",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Comfy Casual",
+        "Shop By Trend&gt;Summer Staples",
+        "All Bottoms",
+        "Gifts for Her"
+      ],
+      "on_sale": "No",
+      "quantity_available": "6",
+      "uid": "169295",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/844a7481_2_2_thumb_med.jpg",
+      "price": "52",
+      "msrp": "75",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/844a7481_2_2_large.jpg",
+      "popularity": "4349",
+      "name": "Step It Up Dark Denim Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "bcf149b4be5caedc778686806b71c72e",
+      "sku": "C-JU-I6-BP03J",
+      "brand": "Just USA",
+      "url": "/product/C-JU-I6-BP03J"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDWDXbS9TTTDTY3sGAwZDA0YTAyYTA0MmZIL8pMAQD6-gpz",
+      "intellisuggestSignature": "4436d2908d43b116f5f79f3bdb152c85d4f890a5bd0a93ff400c9719ee1fe52d",
+      "ss_insights_quadrant": "Under Exposed",
+      "gross_margin": "69",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "jeans",
+        "pants",
+        "skinny jeans",
+        "skinnies",
+        "denim",
+        "denim pants",
+        "dark jeans",
+        "dark wash"
+      ],
+      "color": ["Blue"],
+      "multi_colors": "no",
+      "description": "Can you keep a secret or are you a Gossip Girl, looking fashionably chatty in these Ultra Dark Wash Skinny Jeans? You\u2019re always in the know of the current news, and you\u2019re always willing to dish out on the latest scoop. So let\u2019s cut to the chase and face the facts already: you\u2019re a Gossip Girl. So Miss Chatter-Box, won\u2019t you tell us the tall tale of where you got your perfect jeans? We\u2019re all dying to know, and we all need to have a pair now. Denim pants feature 5-pocket styling, zipper/button-fly. \u2022 92% Cotton, 6% Polyester, 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Imported",
+      "title": "Gossip Girl Ultra Dark Wash Skinny Jeans",
+      "ss_clicks": "466",
+      "color_family": ["Blue"],
+      "sales_rank": "4333",
+      "ss_sale_price": "39",
+      "ss_category_hierarchy": [
+        "Gifts for Her",
+        "Gifts for Her&gt;Gifts Under $50"
+      ],
+      "on_sale": "Yes",
+      "collection": "Gossip Girl",
+      "sale_price": "15",
+      "condition": "New",
+      "product_type": ["Gifts for Her", "Gifts for Her &gt; Gifts Under $50"],
+      "size": ["24", "25", "26", "27", "28", "29", "30"],
+      "material": "Denim",
+      "days_since_published": "83",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30"],
+      "quantity_available": "1",
+      "uid": "106779",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/844a7106_1_thumb_med.jpg",
+      "price": "39",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/844a7106_1_large.jpg",
+      "popularity": "4333",
+      "name": "Gossip Girl Ultra Dark Wash Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "1b0f88f594fd3e810192efe32abc288b",
+      "sku": "C-SB-I6-S708",
+      "brand": "Scarlet Boulevard",
+      "url": "/product/C-SB-I6-S708"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDWDXbS9TTWDTY3MWIwZDA0ZTAyYTA0MmZIL8pMAQD6ogpv",
+      "intellisuggestSignature": "d7d99b15bc818f27cf9775757730590c6204dc7f8ce17ec7c6e3225000cf3679",
+      "ss_insights_quadrant": "Under Exposed",
+      "gross_margin": "56",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "distressed jeans",
+        "blue jeans",
+        "holy jeans",
+        "hole jeans",
+        "skinny jeans",
+        "denim",
+        "comfy casual",
+        "jeans"
+      ],
+      "color": ["Blue"],
+      "multi_colors": "no",
+      "description": "If you Start Me Up, I\u2019ll never stop in these amazing Distressed Skinny Jeans! These jeans will have you making the most of the day because you won\u2019t want to take them off and you\u2019ll want everyone to see them! You\u2019ll be coming back to these jeans time and again. These distressed skinny jeans feature rips and cutouts, a standard 5-pocket design, and a button and zipper fly. \u2022 98% Cotton, 2% Spandex \u2022 Hand Wash Cold \u2022 Unlined \u2022 Imported",
+      "title": "Start Me Up Distressed Skinny Jeans",
+      "ss_clicks": "3282",
+      "color_family": ["Blue"],
+      "condition": "New",
+      "sales_rank": "4255",
+      "ss_sale_price": "35",
+      "product_type": [
+        "Shop By Trend &gt; Comfy Casual",
+        "Shop By Trend &gt; Summer Staples",
+        "Style Influencer &gt; Holly Boyd",
+        "Style Influencer &gt; Courtney Inkpen",
+        "All Bottoms &gt; Denim",
+        "All Bottoms &gt; Pants",
+        "Gifts for Her",
+        "Gifts for Her &gt; Gifts Under $50"
+      ],
+      "size": ["25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "132",
+      "size_pants": ["25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "All Bottoms&gt;Pants",
+        "Style Influencer&gt;Courtney Inkpen",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Comfy Casual",
+        "Style Influencer&gt;Holly Boyd",
+        "Shop By Trend&gt;Summer Staples",
+        "Style Influencer",
+        "All Bottoms",
+        "Gifts for Her",
+        "Gifts for Her&gt;Gifts Under $50"
+      ],
+      "on_sale": "No",
+      "quantity_available": "12",
+      "uid": "152763",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/rdb_studio_2_3267_thumb_med.jpg",
+      "price": "35",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/rdb_studio_2_3267_large.jpg",
+      "popularity": "4255",
+      "name": "Start Me Up Distressed Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "dcd922a3143457ecf5dc37cf16596a02",
+      "sku": "C-SB-I3-S742",
+      "brand": "Scarlet Boulevard",
+      "url": "/product/C-SB-I3-S742"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrTDTPXDTA0MDZhMGQwNGMwAtJGxgzpRZkpAAdkCrQ",
+      "intellisuggestSignature": "92c8248b2bee8604b19c9f28447804f974e03ab81b437f0c13bcaad73a604439",
+      "ss_insights_quadrant": "Poor Performer",
+      "gross_margin": "45",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "jeans",
+        "pants",
+        "jeggings",
+        "skinnies",
+        "skinny jean",
+        "skinny pants",
+        "colored denim",
+        "colored jeans",
+        "distressed denim",
+        "distressed jeans",
+        "distressed pants",
+        "ripped knees",
+        "ripped jeans",
+        "ripped pants",
+        "plum",
+        "burgundy",
+        "wine",
+        "maroon",
+        "purple",
+        "just usa"
+      ],
+      "color": ["Purple"],
+      "multi_colors": "no",
+      "description": "Off She Goes, looking like supermodel, in these fine Plum Skinny Jeans! Girl, you need to look into an agency! These skinny jeans feature standard 5 pocket styling, belt loops, a zipper button fly, and rips at the knees. \u2022 75% Cotton, 23% Polyester, 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "Off She Goes Plum Skinny Jeans",
+      "ss_clicks": "1315",
+      "color_family": ["Purple"],
+      "condition": "New",
+      "sales_rank": "4037",
+      "ss_sale_price": "58",
+      "product_type": [
+        "All Bottoms &gt; Denim",
+        "All Bottoms",
+        "Gifts for Her"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "120",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "All Bottoms&gt;Denim",
+        "All Bottoms",
+        "Gifts for Her"
+      ],
+      "on_sale": "No",
+      "quantity_available": "79",
+      "uid": "173517",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/rdb_studio_2_3298_thumb_med.jpg",
+      "price": "58",
+      "msrp": "75",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/rdb_studio_2_3298_large.jpg",
+      "popularity": "4037",
+      "name": "Off She Goes Plum Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "a0b440d2bace5d9923c6adbb066d3ee3",
+      "sku": "C-JV-V7-P1034",
+      "brand": "Just USA",
+      "url": "/product/C-JV-V7-P1034"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrV9TTVDTA0MDBjMGQwNGcwMmEwNDJmSC_KTAEABcwKpA",
+      "intellisuggestSignature": "550346dd7c12d1172db13a19f5870f1692ed25d120054ec2c39b582885320f18",
+      "ss_insights_quadrant": "Under Exposed",
+      "gross_margin": "28",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "skinny jeans",
+        "jeggings",
+        "jeans",
+        "blue jeans",
+        "blue",
+        "faded blue",
+        "medium blue",
+        "medium wash"
+      ],
+      "color": ["Blue"],
+      "multi_colors": "no",
+      "description": "Even if you're a bit on the short side, you'll Stand Tall in these amazing Medium Wash Skinny Jeans. As good as you'll look and feel, your style will be towering over others. These skinny jeans feature standard 5-pockets with rivets and a button zipper fly. Model is wearing a size 25. \u2022 55% Rayon, 26% Cotton, 18% Polyester, 1% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "Stand Tall Medium Wash Skinny Jeans",
+      "ss_clicks": "3883",
+      "color_family": ["Blue"],
+      "condition": "New",
+      "sales_rank": "4007",
+      "ss_sale_price": "48",
+      "product_type": [
+        "Brands We Love &gt; Just USA + Just Black",
+        "All Bottoms &gt; Pants",
+        "All Bottoms &gt; Denim",
+        "Shop By Trend &gt; Comfy Casual",
+        "What's New",
+        "All Bottoms",
+        "Gifts for Her",
+        "Gifts for Her &gt; Gifts Under $50"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "67",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "All Bottoms&gt;Pants",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Comfy Casual",
+        "All Bottoms",
+        "Brands We Love&gt;Just USA + Just Black",
+        "What's New",
+        "Gifts for Her",
+        "Gifts for Her&gt;Gifts Under $50",
+        "Brands We Love"
+      ],
+      "on_sale": "No",
+      "quantity_available": "160",
+      "uid": "170250",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/rdb_studio_2_3283_thumb_med.jpg",
+      "price": "48",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/rdb_studio_2_3283_large.jpg",
+      "popularity": "4007",
+      "name": "Stand Tall Medium Wash Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "bdc9351fdb98f0a7fb0f309d345ecc54",
+      "sku": "C-JU-I5-P1006",
+      "brand": "Just USA",
+      "url": "/product/C-JU-I5-P1006"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrV9TTXdQowMPZiMGQwtGAwMmEwNDJmSC_KTAEACQEKzw",
+      "intellisuggestSignature": "8f9d26afe34ab29b79b4964a6d9d0a5ecc413b4a56c4b43aae6cd89d76450b7c",
+      "ss_insights_quadrant": "Poor Performer",
+      "gross_margin": "44",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "denim",
+        "dark denim",
+        "skinny jeans",
+        "skinnies",
+        "jeggings",
+        "blue jeans",
+        "dark wash",
+        "dark jeans",
+        "ultra dark"
+      ],
+      "color": ["Blue"],
+      "multi_colors": "no",
+      "description": "Step It Up and crank up the volume of your stunning style with these Ultra Dark Denim Skinny Jeans. You\u2019ll be looking perfectly polished, yet comfortable and casual, no matter what you pair these babes with! These skinny jeans feature standard 5 pocket styling, a button fly closure, and belt loops. \u2022 52% Rayon, 26% Cotton, 20% Polyester, 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "Step It Up Ultra Dark Denim Skinny Jeans",
+      "ss_clicks": "4090",
+      "color_family": ["Blue"],
+      "condition": "New",
+      "sales_rank": "3950",
+      "ss_sale_price": "52",
+      "product_type": [
+        "Shop By Trend &gt; Comfy Casual",
+        "Shop By Trend &gt; Summer Staples",
+        "Brands We Love &gt; Just USA + Just Black",
+        "All Bottoms &gt; Pants",
+        "All Bottoms &gt; Denim",
+        "Shop By Trend &gt; Girl's Night Out",
+        "Gifts for Her"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Denim",
+      "days_since_published": "69",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "All Bottoms&gt;Pants",
+        "Shop By Trend&gt;Girl's Night Out",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Comfy Casual",
+        "Shop By Trend&gt;Summer Staples",
+        "All Bottoms",
+        "Brands We Love&gt;Just USA + Just Black",
+        "Gifts for Her",
+        "Brands We Love"
+      ],
+      "on_sale": "No",
+      "quantity_available": "12",
+      "uid": "170854",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/rdb_studio_2_3328_thumb_med.jpg",
+      "price": "52",
+      "msrp": "75",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/rdb_studio_2_3328_large.jpg",
+      "popularity": "3950",
+      "name": "Step It Up Ultra Dark Denim Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "6e56395b7826e4abf3293ec4a0cd9483",
+      "sku": "C-JU-I7-BP03J",
+      "brand": "Just USA",
+      "url": "/product/C-JU-I7-BP03J"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrV9TTXDTA0MDRkAEJLBiMTBkMjY4b0oswUAAXPCqQ",
+      "intellisuggestSignature": "4ed893acac1dd1e2e3d8c05cf4eedb69bed14f78f59059ae6a7e2f30a894d51f",
+      "ss_insights_quadrant": "Over Exposed",
+      "gross_margin": "68",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "Wide Leg Jeans",
+        "Denim",
+        "Jeans",
+        "Wide Leg Denim",
+        "Wide Leg",
+        "Flares",
+        "Flare Pants",
+        "Bell Bottoms",
+        "Flare Jeans",
+        "Flare Denim"
+      ],
+      "color": ["Blue"],
+      "multi_colors": "no",
+      "description": "Be indisputably cute and fabulous in our Classic And Contemporary Distressed Wide Leg Jeans. Paired with pumps, these stunning wide leg jeans will give you legs for days. Dressed up or down, anytime of the year, these classics will stand the test of time. Distressed bell bottom jeans feature standard functional pockets on front and back and a zipper button closure. \u2022 73% Cotton, 14% Rayon, 11% Polyester, 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "Classic And Contemporary Distressed Wide Leg Jeans",
+      "ss_clicks": "2458",
+      "color_family": ["Blue"],
+      "sales_rank": "3660",
+      "ss_sale_price": "62",
+      "ss_category_hierarchy": [
+        "All Sale",
+        "Gifts for Her",
+        "All Sale&gt;50% off",
+        "All Sale&gt;Bottoms on Sale"
+      ],
+      "on_sale": "Yes",
+      "sale_price": "31",
+      "condition": "New",
+      "product_type": [
+        "All Sale &gt; 50% off",
+        "All Sale &gt; Bottoms on Sale",
+        "All Sale",
+        "Gifts for Her"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "141",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "quantity_available": "2",
+      "uid": "139290",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/524_2997_copyright_reddressboutique_2016_thumb_med.jpg",
+      "price": "62",
+      "msrp": "75",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/524_2997_copyright_reddressboutique_2016_large.jpg",
+      "popularity": "3660",
+      "name": "Classic And Contemporary Distressed Wide Leg Jeans",
+      "product_type_unigram": "jeans",
+      "id": "81173cc31c0fe52c4c936404b33044c4",
+      "sku": "C-JU-I7-P1011",
+      "brand": "Just USA",
+      "url": "/product/C-JU-I7-P1011"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDWdQ7Q9TTVNTAwCAlgMGQwMmAwMmEwNDJmSC_KTAEABd8Krw",
+      "intellisuggestSignature": "2061c120bde76acd4ea766f606b1b317d439ee17a9f329d4cd76c2b2b11030e0",
+      "ss_insights_quadrant": "Best Performer",
+      "gross_margin": "61",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "jeans",
+        "pants",
+        "jeggings",
+        "skinnies",
+        "skinny jean",
+        "skinny pants",
+        "denim",
+        "colored jeans",
+        "distressed denim",
+        "distressed jeans",
+        "distressed pants",
+        "ripped knees",
+        "ripped jeans",
+        "ripped pants",
+        "dark wash",
+        "medium denim",
+        "celebrity pink"
+      ],
+      "color": ["Blue"],
+      "multi_colors": "no",
+      "description": "In art, when trying to convey the most realistic, and yet appealing image on canvas, the artist knows that it\u2019s the little imperfections that make perfection. Like freckles on sun-kissed cheeks, or an asymmetrical smile. A pristine pair of jeans just don\u2019t hold a candle to the distressed beauties; They have all the hallmarks of a well-loved pair; and imperfection becomes perfection. These dark wash skinny jeans feature slight distressing at the knees and thighs, a button and zipper fly and standard 5- pockets with rivets. Model is wearing a size 1. \u2022 95% Cotton 4% Polyester 1% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Imported",
+      "title": "Perfectly Imperfect Medium Wash Distressed Skinny Jeans",
+      "ss_clicks": "2093",
+      "color_family": ["Blue"],
+      "condition": "New",
+      "sales_rank": "3438",
+      "ss_sale_price": "39",
+      "product_type": [
+        "Shop By Trend &gt; Comfy Casual",
+        "All Bottoms &gt; Pants",
+        "All Bottoms &gt; Denim",
+        "Shop By Trend",
+        "What's New",
+        "All Bottoms",
+        "Gifts for Her",
+        "Gifts for Her &gt; Gifts Under $50"
+      ],
+      "size": ["1", "3", "5", "7", "9", "11", "13"],
+      "material": "Cotton",
+      "days_since_published": "172",
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "All Bottoms&gt;Pants",
+        "All Bottoms&gt;Denim",
+        "Shop By Trend&gt;Comfy Casual",
+        "All Bottoms",
+        "What's New",
+        "Gifts for Her",
+        "Gifts for Her&gt;Gifts Under $50"
+      ],
+      "on_sale": "No",
+      "quantity_available": "52",
+      "uid": "180779",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/3229_copyright_reddressboutique_2017-2_1_thumb_med.jpg",
+      "price": "39",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/3229_copyright_reddressboutique_2017-2_1_large.jpg",
+      "popularity": "3438",
+      "name": "Perfectly Imperfect Medium Wash Distressed Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "3daa5e1b97f1f513198e12bc08ac5ffe",
+      "sku": "C-CP-I5-000TP",
+      "brand": "Celebrity",
+      "url": "/product/C-CP-I5-000TP"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrVdTfXDTA0MDZhMGQwAiIgbWTMkF6UmQIABZ8KoA",
+      "intellisuggestSignature": "f2613a15128623e6d8558d49648bc44d3d1c6ccad6d71b1250dfc8984c99ecff",
+      "ss_insights_quadrant": "Best Performer",
+      "gross_margin": "73",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "jeans",
+        "pants",
+        "jeggings",
+        "skinnies",
+        "skinny jean",
+        "skinny pants",
+        "colored denim",
+        "colored jeans",
+        "distressed denim",
+        "distressed jeans",
+        "distressed pants",
+        "ripped knees",
+        "ripped jeans",
+        "ripped pants",
+        "black",
+        "just usa"
+      ],
+      "color": ["Black"],
+      "multi_colors": "no",
+      "description": "Off She Goes, looking like supermodel, in these fine Black Skinny Jeans! Girl, you need to look into an agency! These skinny jeans feature standard 5 pocket styling, belt loops, a zipper button fly, and rips at the knees. \u2022 75% Cotton, 23% Polyester, 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "Off She Goes Black Skinny Jeans",
+      "ss_clicks": "2880",
+      "color_family": ["Black"],
+      "condition": "New",
+      "sales_rank": "3434",
+      "ss_sale_price": "58",
+      "product_type": [
+        "All Bottoms &gt; Denim",
+        "Shop By Trend",
+        "Back in Stock",
+        "All Bottoms",
+        "Gifts for Her"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "142",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "Back in Stock",
+        "All Bottoms&gt;Denim",
+        "All Bottoms",
+        "Gifts for Her"
+      ],
+      "on_sale": "No",
+      "quantity_available": "55",
+      "uid": "169983",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/rdb_studio_2_3346_thumb_med.jpg",
+      "price": "58",
+      "msrp": "75",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/rdb_studio_2_3346_large.jpg",
+      "popularity": "3434",
+      "name": "Off She Goes Black Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "d0956639fcedb3c7b49006545c053021",
+      "sku": "C-JU-G7-P1034",
+      "brand": "Just USA",
+      "url": "/product/C-JU-G7-P1034"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrVDTfUDTA0MDBjMGQwMmIwMmEwNDJmSC_KTAEABpcKqg",
+      "intellisuggestSignature": "6a25081efce94fc212464dc760d634367119f8d0df7bb0e7ce586cb4e7897e78",
+      "ss_insights_quadrant": "Over Exposed",
+      "gross_margin": "29",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "Skinny Jeans",
+        "Skinnies",
+        "White",
+        "Denim",
+        "Jeans",
+        "Jeggings",
+        "Classic"
+      ],
+      "color": ["White"],
+      "multi_colors": "no",
+      "description": "Stand Tall in these stunning White Skinny Jeans, and don\u2019t look down unless it\u2019s to admire your shoes! You\u2019ll be holding your head high and setting the style standard way up there when you\u2019re in these amazing jeans! These skinny jeans feature standard 5-pockets with rivets and a button zipper fly. \u2022 55% Rayon, 26% Cotton, 18% Polyester, 1% Spandex \u2022 Machine wash cold. \u2022 Unlined \u2022 Made in the USA",
+      "title": "Stand Tall White Skinny Jeans",
+      "ss_clicks": "288",
+      "color_family": ["White"],
+      "condition": "New",
+      "sales_rank": "2990",
+      "ss_sale_price": "48",
+      "product_type": [
+        "Shop By Trend &gt; White Haute",
+        "Shop By Trend &gt; Girl's Night Out",
+        "Shop By Trend &gt; Spring Preview",
+        "Style Influencer &gt; Holly Boyd",
+        "Brands We Love &gt; Just USA + Just Black",
+        "Shop By Trend &gt; Prep In Your Step",
+        "Gifts for Her",
+        "Gifts for Her &gt; Gifts Under $50"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "70",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "ss_category_hierarchy": [
+        "Shop By Trend",
+        "Shop By Trend&gt;Girl's Night Out",
+        "Shop By Trend&gt;Spring Preview",
+        "Style Influencer&gt;Holly Boyd",
+        "Style Influencer",
+        "Shop By Trend&gt;Prep In Your Step",
+        "Brands We Love&gt;Just USA + Just Black",
+        "Gifts for Her",
+        "Gifts for Her&gt;Gifts Under $50",
+        "Shop By Trend&gt;White Haute",
+        "Brands We Love"
+      ],
+      "on_sale": "No",
+      "quantity_available": "4",
+      "uid": "175599",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/rdb_studio_2_3209_thumb_med.jpg",
+      "price": "48",
+      "msrp": "50",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/rdb_studio_2_3209_large.jpg",
+      "popularity": "2990",
+      "name": "Stand Tall White Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "36c6da9e55681d0e437c31ff09c7277e",
+      "sku": "C-JU-W1-P1006",
+      "brand": "Just USA",
+      "url": "/product/C-JU-W1-P1006"
+    },
+    {
+      "intellisuggestData": "eJwrTs4tNM9jYMhKTcwrZnDW9QrVdTXXDTA0MDZhMGQwMmYwAtJAKr0oMwUABYcKoA",
+      "intellisuggestSignature": "1ce03315790578aa301b45e44d791cb395551c7c04ed99dfae0e51bf4db3b228",
+      "ss_insights_quadrant": "Poor Performer",
+      "gross_margin": "60",
+      "ss_product_type": "Jeans",
+      "keywords": [
+        "jeans",
+        "pants",
+        "jeggings- skinnies",
+        "skinny jean",
+        "skinny pants",
+        "colored denim",
+        "colored jeans",
+        "distressed denim",
+        "distressed jeans",
+        "distressed pants",
+        "ripped knees",
+        "ripped jeans",
+        "ripped pants",
+        "green",
+        "dark green",
+        "pine green",
+        "evergreen",
+        "just usa"
+      ],
+      "color": ["Green"],
+      "multi_colors": "no",
+      "description": "Always on the run, Off She Goes, with her great style in stride, in these Pine Green Skinny Jeans! Girl\u2019s got places to go, things to do, and people to see, and she\u2019ll look just as great (or even better) as the time she\u2019s having in these amazing jeans! These skinny jeans feature standard 5 pocket styling, belt loops, a zipper button fly, and rips at the knees. Model is wearing a 25. \u2022 75% Cotton, 23% Polyester, 2% Spandex \u2022 Machine Wash Cold \u2022 Unlined \u2022 Made in the USA",
+      "title": "Off She Goes Pine Green Skinny Jeans",
+      "ss_clicks": "402",
+      "color_family": ["Green"],
+      "sales_rank": "2841",
+      "ss_sale_price": "58",
+      "ss_category_hierarchy": [
+        "All Sale",
+        "Gifts for Her",
+        "All Sale&gt;50% off",
+        "All Sale&gt;Bottoms on Sale"
+      ],
+      "on_sale": "Yes",
+      "sale_price": "29",
+      "condition": "New",
+      "product_type": [
+        "All Sale &gt; 50% off",
+        "All Sale &gt; Bottoms on Sale",
+        "All Sale",
+        "Gifts for Her"
+      ],
+      "size": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "material": "Cotton",
+      "days_since_published": "109",
+      "size_pants": ["24", "25", "26", "27", "28", "29", "30", "31"],
+      "quantity_available": "11",
+      "uid": "154533",
+      "thumbnailImageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_thumb_med/844a7398_thumb_med.jpg",
+      "price": "58",
+      "msrp": "75",
+      "imageUrl": "https://searchspring-demo-content.s3.amazonaws.com/demo/fashion/product_images_large/844a7398_large.jpg",
+      "popularity": "2841",
+      "name": "Off She Goes Pine Green Skinny Jeans",
+      "product_type_unigram": "jeans",
+      "id": "3b6f5843ceaaf2458d347697171ee75c",
+      "sku": "C-JU-E7-P1034",
+      "brand": "Just USA",
+      "url": "/product/C-JU-E7-P1034"
+    }
+  ],
+  "facets": [
+    {
+      "field": "price",
+      "label": "Price",
+      "type": "slider",
+      "collapse": 0,
+      "facet_active": 0,
+      "step": 5,
+      "range": [30, 200],
+      "active": [30, 200],
+      "format": "$%01.2f - $%01.2f",
+      "values": []
+    },
+    {
+      "field": "color_family",
+      "label": "Color",
+      "type": "palette",
+      "multiple": "multiple-union",
+      "collapse": 1,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Blue",
+          "label": "Blue",
+          "count": 87
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Black",
+          "label": "Black",
+          "count": 7
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "White",
+          "label": "White",
+          "count": 7
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Red",
+          "label": "Red",
+          "count": 5
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Gray",
+          "label": "Gray",
+          "count": 4
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Green",
+          "label": "Green",
+          "count": 4
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Orange",
+          "label": "Orange",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Pink",
+          "label": "Pink",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Purple",
+          "label": "Purple",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Yellow",
+          "label": "Yellow",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "field": "brand",
+      "label": "Brand",
+      "type": "list",
+      "collapse": 1,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "36point5",
+          "label": "36point5",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "American Bazi",
+          "label": "American Bazi",
+          "count": 3
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Blu Pepper",
+          "label": "Blu Pepper",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Caribbean Queen",
+          "label": "Caribbean Queen",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Celebrity",
+          "label": "Celebrity",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Cello Jeans",
+          "label": "Cello Jeans",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "City Classified",
+          "label": "City Classified",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Dance & Marvel",
+          "label": "Dance & Marvel",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "E2 Clothing",
+          "label": "E2 Clothing",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Ellison",
+          "label": "Ellison",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "En Creme",
+          "label": "En Creme",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Everly",
+          "label": "Everly",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Flying Tomato",
+          "label": "Flying Tomato",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Fringe",
+          "label": "Fringe",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Hello Miss",
+          "label": "Hello Miss",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Hudson",
+          "label": "Hudson",
+          "count": 4
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Hyfve",
+          "label": "Hyfve",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Just Black",
+          "label": "Just Black",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Just Panmaco",
+          "label": "Just Panmaco",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Just USA",
+          "label": "Just USA",
+          "count": 60
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Love Stitch",
+          "label": "Love Stitch",
+          "count": 4
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Lush",
+          "label": "Lush",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Miracle Miles",
+          "label": "Miracle Miles",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "On Twelfth",
+          "label": "On Twelfth",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Scarlet Boulevard",
+          "label": "Scarlet Boulevard",
+          "count": 22
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Signature 8",
+          "label": "Signature 8",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Sneak Peek",
+          "label": "Sneak Peek",
+          "count": 3
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Staccato",
+          "label": "Staccato",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Uniq",
+          "label": "Uniq",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Very J",
+          "label": "Very J",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "field": "ss_category_hierarchy",
+      "label": "Category",
+      "type": "hierarchy",
+      "multiple": "single",
+      "collapse": 0,
+      "facet_active": 0,
+      "hierarchyDelimiter": ">",
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Gifts for Her",
+          "label": "Gifts for Her",
+          "count": 123
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Shop By Trend",
+          "label": "Shop By Trend",
+          "count": 61
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "All Bottoms",
+          "label": "All Bottoms",
+          "count": 56
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Brands We Love",
+          "label": "Brands We Love",
+          "count": 32
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "What's New",
+          "label": "What's New",
+          "count": 21
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Style Influencer",
+          "label": "Style Influencer",
+          "count": 13
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "All Sale",
+          "label": "All Sale",
+          "count": 10
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Going Fast",
+          "label": "Going Fast",
+          "count": 6
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "All Tops",
+          "label": "All Tops",
+          "count": 5
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "All Dresses",
+          "label": "All Dresses",
+          "count": 3
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "All Shoes",
+          "label": "All Shoes",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Back in Stock",
+          "label": "Back in Stock",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Memorial Day Sale",
+          "label": "Memorial Day Sale",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Notify of Restock",
+          "label": "Notify of Restock",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Playsuits",
+          "label": "Playsuits",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Valentine's Day",
+          "label": "Valentine's Day",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "White & Blue Looks",
+          "label": "White & Blue Looks",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "field": "on_sale",
+      "label": "On Sale",
+      "type": null,
+      "collapse": 1,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Yes",
+          "label": "Yes",
+          "count": 48
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "No",
+          "label": "No",
+          "count": 75
+        }
+      ]
+    },
+    {
+      "field": "size",
+      "label": "Size",
+      "type": "grid",
+      "multiple": "multiple-intersect",
+      "collapse": 1,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "1",
+          "label": "1",
+          "count": 14
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "3",
+          "label": "3",
+          "count": 14
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "5",
+          "label": "5",
+          "count": 14
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "6",
+          "label": "6",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "7",
+          "label": "7",
+          "count": 16
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "8",
+          "label": "8",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "9",
+          "label": "9",
+          "count": 16
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "10",
+          "label": "10",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "11",
+          "label": "11",
+          "count": 14
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "13",
+          "label": "13",
+          "count": 14
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "15",
+          "label": "15",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "24",
+          "label": "24",
+          "count": 58
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "25",
+          "label": "25",
+          "count": 63
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "26",
+          "label": "26",
+          "count": 65
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "27",
+          "label": "27",
+          "count": 65
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "28",
+          "label": "28",
+          "count": 65
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "29",
+          "label": "29",
+          "count": 65
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "30",
+          "label": "30",
+          "count": 65
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "31",
+          "label": "31",
+          "count": 53
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "X-Small",
+          "label": "X-Small",
+          "count": 15
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Small",
+          "label": "Small",
+          "count": 42
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Medium",
+          "label": "Medium",
+          "count": 42
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Large",
+          "label": "Large",
+          "count": 42
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "X-Large",
+          "label": "X-Large",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "5.5",
+          "label": "5.5",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "6.5",
+          "label": "6.5",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "7.5",
+          "label": "7.5",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "8.5",
+          "label": "8.5",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "field": "material",
+      "label": "Material",
+      "type": "list",
+      "collapse": 1,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Denim",
+          "label": "Denim",
+          "count": 42
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Cotton",
+          "label": "Cotton",
+          "count": 74
+        }
+      ]
+    },
+    {
+      "field": "size_pants",
+      "label": "Pant Size",
+      "type": "list",
+      "collapse": 1,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "1",
+          "label": "1",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "3",
+          "label": "3",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "5",
+          "label": "5",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "7",
+          "label": "7",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "9",
+          "label": "9",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "11",
+          "label": "11",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "13",
+          "label": "13",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "24",
+          "label": "24",
+          "count": 58
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "25",
+          "label": "25",
+          "count": 63
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "26",
+          "label": "26",
+          "count": 65
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "27",
+          "label": "27",
+          "count": 65
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "28",
+          "label": "28",
+          "count": 65
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "29",
+          "label": "29",
+          "count": 65
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "30",
+          "label": "30",
+          "count": 65
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "31",
+          "label": "31",
+          "count": 53
+        }
+      ]
+    },
+    {
+      "field": "size_dress",
+      "label": "Dress Size",
+      "type": "grid",
+      "multiple": "single",
+      "collapse": 1,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Large",
+          "label": "Large",
+          "count": 42
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Medium",
+          "label": "Medium",
+          "count": 42
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Small",
+          "label": "Small",
+          "count": 42
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "X-Large",
+          "label": "X-Large",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "X-Small",
+          "label": "X-Small",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "field": "collection",
+      "label": "Collection",
+      "type": "list",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Above The Fray",
+          "label": "Above The Fray",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "All Purpose",
+          "label": "All Purpose",
+          "count": 3
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Basic Instincts",
+          "label": "Basic Instincts",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "C'est Chic",
+          "label": "C'est Chic",
+          "count": 1
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "California Roots",
+          "label": "California Roots",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Gossip Girl",
+          "label": "Gossip Girl",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "field": "season",
+      "label": "Season",
+      "type": "list",
+      "collapse": 1,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Summer",
+          "label": "Summer",
+          "count": 11
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Spring",
+          "label": "Spring",
+          "count": 8
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Fall",
+          "label": "Fall",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "field": "pattern",
+      "label": "Pattern",
+      "type": "list",
+      "collapse": 1,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Embroidered",
+          "label": "Embroidered",
+          "count": 8
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "Stripe",
+          "label": "Stripe",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "field": "dress_length_name",
+      "label": "Dress Length",
+      "type": null,
+      "multiple": "multiple-union",
+      "collapse": 1,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "Above Knee",
+          "label": "Above Knee",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "field": "size_footwear",
+      "label": "Shoe Size",
+      "type": "grid",
+      "collapse": 0,
+      "facet_active": 0,
+      "values": [
+        {
+          "active": false,
+          "type": "value",
+          "value": "5.5",
+          "label": "5.5",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "6",
+          "label": "6",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "6.5",
+          "label": "6.5",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "7",
+          "label": "7",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "7.5",
+          "label": "7.5",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "8",
+          "label": "8",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "8.5",
+          "label": "8.5",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "9",
+          "label": "9",
+          "count": 2
+        },
+        {
+          "active": false,
+          "type": "value",
+          "value": "10",
+          "label": "10",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "label": "Search: \"jeans\"",
+      "filterLabel": "Search",
+      "filterValue": "jeans",
+      "removeFilters": [],
+      "removeRefineQuery": []
+    }
+  ],
+  "filterSummary": [],
+  "merchandising": {
+    "redirect": "",
+    "is_elevated": [],
+    "elevated": [],
+    "removed": [],
+    "content": {
+      "inline": [
+        {
+          "value": "<script data-banner-type=\"image\" data-banner-html=\"\" data-image-url=\"https://simplysouthern.com/wp-content/uploads/FREESHIPPING-BANNER-430-01.jpg\" type=\"text/widget\"></script><img src=\"https://simplysouthern.com/wp-content/uploads/FREESHIPPING-BANNER-430-01.jpg\" style=\"width: 100%;\">",
+          "config": { "position": { "index": 4 } }
+        }
+      ]
+    },
+    "facets": [],
+    "facetsHide": [],
+    "experiments": []
+  },
+  "relatedQueries": null
+}

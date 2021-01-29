@@ -6,6 +6,7 @@ function useFetch(query, page) {
   const [hasError, setHasError] = useState(false);
 
   useEffect(() => {
+    setLoading(true);
     const fetchResults = async () => {
       await fetch(
         `http://api.searchspring.net/api/search/search.json?siteId=scmq7n&q=${query}&resultsFormat=native&page=${page}`

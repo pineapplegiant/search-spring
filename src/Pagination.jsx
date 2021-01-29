@@ -2,18 +2,6 @@ import React from "react";
 import arrow from "./arrow.svg";
 
 function Pagination(props) {
-  if (!props) {
-    props = {
-      begin: 1,
-      end: 24,
-      query: "New-arrivals",
-      currentPage: 0,
-      totalPages: 6,
-      totalResults: 124,
-      url: `http://api.searchspring.net/api/search/search.json?siteId=scmq7n&q=new-arrivals&resultsFormat=native`,
-      link: "lol"
-    }
-  }
   return (
     <div className="pagination">
       <h1 className="pagination__title">

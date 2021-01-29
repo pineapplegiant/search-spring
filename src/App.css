@@ -22,7 +22,9 @@ Global Styles
 input,
 button,
 a {
-  outline-color: var(--gray);
+  /*outline-color: var(--gray);*/
+  /* I'm sorry a11y don't kill me */
+  outline: none; 
 }
 
 html {
@@ -43,7 +45,6 @@ Header
   text-align: center;
   font-style: italic;
   font-weight: 400;
-  padding-top: 1rem;
 }
 
 
@@ -52,7 +53,6 @@ header {
   margin: 1rem auto 1.75rem auto;
   max-width: var(--header-width);
   padding: 1rem 2rem 2rem 1rem;
-  align-items: center;
   justify-content: space-between;
   border-bottom: 1px solid var(--black);
 }
@@ -83,7 +83,7 @@ header {
 .shopping__count {
   font-family: Arial, Helvetica, sans-serif;
   position: absolute;
-  top: 28px;
+  top: 26px;
   right: 6px;
   color: var(--black);
   font-size: 12px;
@@ -107,6 +107,7 @@ header {
   /*border-radius: 10px;*/
   width: 56vw;
   max-width: 800px;
+  margin: 1rem auto;
   /*border: 1px solid var(--black);*/
 }
 

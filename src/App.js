@@ -1,9 +1,8 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import "./App.css";
-import Logo from "./Logo";
-import ShoppingCart from "./ShoppingCart";
 import search from "./search.svg";
-//import Pagination from "./Pagination";
+import Header from "./Header";
+import Pagination from "./Pagination";
 import Item from "./Item";
 import useFetch from "./useFetch";
 import Loader from "react-loader-spinner";
@@ -22,27 +21,23 @@ function App() {
 
   return (
     <>
-      <h1 className="hero-text">Search Springly Fashion</h1>
-      <header>
-        <Logo />
-        <form onSubmit={handleSubmit} className="search">
-          <button
-            onClick={handleSubmit}
-            className="search__submit-button"
-            type="submit"
-          >
-            <img className="search__img" src={search} alt="Search button" />
-          </button>
-          <input
-            value={input}
-            onChange={(event) => setInput(event.target.value)}
-            placeholder="Search for clothing"
-            className="search__input"
-            type="text"
-          />
-        </form>
-        <ShoppingCart />
-      </header>
+      <Header />
+      <form onSubmit={handleSubmit} className="search">
+        <button
+          onClick={handleSubmit}
+          className="search__submit-button"
+          type="submit"
+        >
+          <img className="search__img" src={search} alt="Search button" />
+        </button>
+        <input
+          value={input}
+          onChange={(event) => setInput(event.target.value)}
+          placeholder="Search for clothing"
+          className="search__input"
+          type="text"
+        />
+      </form>
 
       <main className="results">
         <div className="results__response">
@@ -56,7 +51,10 @@ function App() {
             />
           ) : hasError ? (
             <div>An error has occurred in your request</div>
-          ) : (
+            ) :
+              (
+                <Pagination/>
+              ) && (
             data.results.map((elem) => (
               <Item
                 key={elem.id}

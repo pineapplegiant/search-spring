@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/search-spring/static/css/main.8e029ca9.chunk.css",
+    "main.js": "/search-spring/static/js/main.ff5f7e63.chunk.js",
+    "main.js.map": "/search-spring/static/js/main.ff5f7e63.chunk.js.map",
+    "runtime-main.js": "/search-spring/static/js/runtime-main.7b5b77c5.js",
+    "runtime-main.js.map": "/search-spring/static/js/runtime-main.7b5b77c5.js.map",
+    "static/js/2.2f251570.chunk.js": "/search-spring/static/js/2.2f251570.chunk.js",
+    "static/js/2.2f251570.chunk.js.map": "/search-spring/static/js/2.2f251570.chunk.js.map",
+    "static/js/3.3a756e11.chunk.js": "/search-spring/static/js/3.3a756e11.chunk.js",
+    "static/js/3.3a756e11.chunk.js.map": "/search-spring/static/js/3.3a756e11.chunk.js.map",
+    "index.html": "/search-spring/index.html",
+    "static/css/main.8e029ca9.chunk.css.map": "/search-spring/static/css/main.8e029ca9.chunk.css.map",
+    "static/js/2.2f251570.chunk.js.LICENSE.txt": "/search-spring/static/js/2.2f251570.chunk.js.LICENSE.txt",
+    "static/media/arrow.6e5063c1.svg": "/search-spring/static/media/arrow.6e5063c1.svg",
+    "static/media/App.css": "/search-spring/static/media/polygon.88ce06c7.svg",
+    "static/media/search.99a39d29.svg": "/search-spring/static/media/search.99a39d29.svg",
+    "static/media/shopping.6e3afc0a.svg": "/search-spring/static/media/shopping.6e3afc0a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b5b77c5.js",
+    "static/js/2.2f251570.chunk.js",
+    "static/css/main.8e029ca9.chunk.css",
+    "static/js/main.ff5f7e63.chunk.js"
+  ]
+}

@@ -21,21 +21,6 @@ function Pagination({ paginate, page, changePage, query }) {
         </button>
       );
     }
-    if (paginate.totalPages > 6) {
-      nums.push(
-        <button
-          key={paginate.totalPages}
-          onClick={() => changePage(paginate.totalPages)}
-          className={
-            paginate.totalPages === page
-              ? "active pagination__link"
-              : "pagination__link"
-          }
-        >
-          {`...${paginate.totalPages}`}
-        </button>
-      );
-    }
     return nums;
   };
 

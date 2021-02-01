@@ -53,8 +53,8 @@ function App() {
               className="center-aligned"
               type="Oval"
               color="#707070"
-              height={120}
-              width={120}
+              height={100}
+              width={100}
               timeout={3000}
             />
           ) : (

@@ -33,7 +33,6 @@ html {
 }
 
 .center-aligned {
-  justify-self: center;
   text-align: center;
 }
 
@@ -56,6 +55,7 @@ header {
   right: 0;
   display: flex;
   justify-content: space-between;
+  align-items: center;;
   border-bottom: 1px solid var(--black);
   max-width: var(--header-width);
   padding: 2rem;
@@ -64,6 +64,7 @@ header {
 
 .logo__img,
 .shopping__img {
+  margin-left: 1rem;
   width: 60px;
   height: 60px;
   cursor: pointer;

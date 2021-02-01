@@ -1,24 +1,44 @@
 import React from "react";
 import arrow from "./arrow.svg";
 
-function Pagination({paginate, page, changePage, query}) {
-
+function Pagination({ paginate, page, changePage, query }) {
+  // TODO: Fix this logic rendering to only show 6 
+  // at any given time with reference to current page
   // Create array of paginated numbers
   const paginatedNumbers = () => {
-    let nums = [];
-    for (let i = 1; i <= paginate.totalPages; i++) {
+    let nums = []; // Hold paginated JSX
+    let paginateAmount = paginate.totalPages > 6 ? 6 : paginate.totalPages; // Only show 6
+    for (let i = 1; i <= paginateAmount; i++) {
       nums.push(
         <a
           key={i}
           href="!#"
           onClick={() => changePage(i)}
-          className={i === page ? "active pagination__link" : "pagination__link"}
+          className={
+            i === page ? "active pagination__link" : "pagination__link"
+          }
         >
           {i}
         </a>
       );
     }
-      return nums;
+    if (paginate.totalPages > 6) {
+      nums.push(
+        <a
+          key={paginate.totalPages}
+          href="!#"
+          onClick={() => changePage(paginate.totalPages)}
+          className={
+            paginate.totalPages === page
+              ? "active pagination__link"
+              : "pagination__link"
+          }
+        >
+          {`...${paginate.totalPages}`}
+        </a>
+      );
+    }
+    return nums;
   };
 
   return (

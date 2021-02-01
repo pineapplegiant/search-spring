@@ -1,9 +1,9 @@
 import React from "react";
-import shopping from "./shopping.svg";
+import shopping from "./shopping-cart.svg";
 
-function ShoppingCart(props) {
+function ShoppingCart() {
   return (
-      <div className="shopping logo-bg">
+      <div className="shopping">
         <img className="shopping__img" src={shopping} alt="Shopping Cart" />
         <span className="shopping__count">0</span>
       </div>

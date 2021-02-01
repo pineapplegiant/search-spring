@@ -1,4 +1,4 @@
-# Search-Spring Requirements
+# Search-Spring Take-home project Requirements
 
 We’d like you to build out a very simple search page for us using our Search API. You can find our documentation for our Search API at the link below.
 
@@ -29,6 +29,12 @@ We don’t expect you to build out a full implementation we just need the follow
 
 
 For builtin deployment instructions view: <a href="./REACT.md">The React README</a>
+
+
+# Useful readings:
+
+* [Data fetching with react](https://www.robinwieruch.de/react-hooks-fetch-data)
+* [Conditional rendering data errors](https://www.debuggr.io/react-map-of-undefined/)
 
 # Style Choices
 

@@ -1,7 +1,7 @@
 import React from "react";
 
 
-function Footer(props) {
+function Footer() {
   return (
     <footer>
       <p>© 2021 Searchspring API - All rights reserved.</p>

@@ -4,7 +4,7 @@ function Item(props) {
   //const genericImg = "https://dummyimage.com/467x700/#/0011ff.jpg"
   const genericImg = "https://placekitten.com/467/700";
 
-  // If no image loads we'll put a new one
+  // If no image loads we'll put a new one...of kitties :')
   const addDefaultSrc = (event) => {
     event.target.src = genericImg;
   }
@@ -18,7 +18,7 @@ function Item(props) {
         onError={addDefaultSrc}
       />
       <h1 className="item__title">
-        {/* Grab the last 3 words of the title */}
+        {/* Grab the last 3 words of the title bc 'design' */}
         {props.title ? props.title.split(" ").slice(-3).join(" ") : "lol"}
       </h1>
       <div className="item__price">

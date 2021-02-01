@@ -4,7 +4,6 @@
 
 - An input box for a search bar with a search button next to it.
 - When someone types into the search bar and hits enter or clicks the search button display product results below the search bar.
-  - Use site ID “scmq7n” for this example.
   - You’ll want to use “resultsFormat=native” as part of the API request to get your results back as JSON.
   - You’ll want to pass the search query using the “q” parameter.
   - Display the product image using the “thumbnailImageUrl”, the product “name” and “price”.
@@ -14,7 +13,7 @@
   - If you’re on the last page you shouldn’t show the next button or it should be disabled.
   - You’ll be able to change the page by making another request to our Search API with the “page” parameter set to the page you’d like to request.
 - I’ve included a sample search request below that does a search for jeans and gets the 2nd page of results.
-  - http://api.searchspring.net/api/search/search.json?siteId=scmq7n&q=jeans&resultsFormat=native&page=2
+  - http://api.searchspring.net/api/search/search.json?siteId=lol&q=jeans&resultsFormat=native&page=2
 - If you want to see an example of what a full integration looks like see the following link.
   - http://try.searchspring.com/search?q=jeans
   - Yours does not need to be nearly as involved and only needs to worry about pagination, not filter or sorting or anything like that.

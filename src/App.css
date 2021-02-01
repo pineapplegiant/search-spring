@@ -165,11 +165,19 @@ Pagination
   align-items: center;
 }
 
+.pagination__links button {
+  border: none;
+  background: transparent;
+  font-family: inherit;
+  padding: 0;
+}
+
 .pagination__link {
   font-size: 1rem;
   color: var(--black);
   margin: 0 8px;
 }
+
 
 .pagination__link:hover {
   text-decoration: underline;

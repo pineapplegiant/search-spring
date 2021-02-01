@@ -2,7 +2,7 @@ import React from "react";
 import arrow from "./arrow.svg";
 
 function Pagination({ paginate, page, changePage, query }) {
-  // TODO: Fix this logic rendering to only show 6 
+  // TODO: Fix this logic rendering to only show 6
   // at any given time with reference to current page
   // Create array of paginated numbers
   const paginatedNumbers = () => {
@@ -10,23 +10,21 @@ function Pagination({ paginate, page, changePage, query }) {
     let paginateAmount = paginate.totalPages > 6 ? 6 : paginate.totalPages; // Only show 6
     for (let i = 1; i <= paginateAmount; i++) {
       nums.push(
-        <a
+        <button
           key={i}
-          href="!#"
           onClick={() => changePage(i)}
           className={
             i === page ? "active pagination__link" : "pagination__link"
           }
         >
           {i}
-        </a>
+        </button>
       );
     }
     if (paginate.totalPages > 6) {
       nums.push(
-        <a
+        <button
           key={paginate.totalPages}
-          href="!#"
           onClick={() => changePage(paginate.totalPages)}
           className={
             paginate.totalPages === page
@@ -35,7 +33,7 @@ function Pagination({ paginate, page, changePage, query }) {
           }
         >
           {`...${paginate.totalPages}`}
-        </a>
+        </button>
       );
     }
     return nums;
@@ -47,8 +45,7 @@ function Pagination({ paginate, page, changePage, query }) {
         {`Showing ${paginate.begin}-${paginate.end} of ${paginate.totalResults} results for '${query}'`}
       </h1>
       <div className="pagination__links">
-        <a
-          href="!#"
+        <button
           onClick={() => changePage((page) => page - 1)}
           className={page === 1 ? "disabled" : ""}
         >
@@ -57,10 +54,9 @@ function Pagination({ paginate, page, changePage, query }) {
             src={arrow}
             alt="toggle previous pagination"
           />
-        </a>
+        </button>
         {paginatedNumbers()}
-        <a
-          href="!#"
+        <button
           onClick={() => changePage((page) => page + 1)}
           disabled={page === paginate.totalPages}
           className={page === paginate.totalPages ? "disabled" : ""}
@@ -70,7 +66,7 @@ function Pagination({ paginate, page, changePage, query }) {
             src={arrow}
             alt="toggle previous pagination"
           />
-        </a>
+        </button>
       </div>
     </div>
   );

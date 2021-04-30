@@ -19,7 +19,7 @@ function Item(props) {
       />
       <h1 className="item__title">
         {/* Grab the last 3 words of the title bc 'design' */}
-        {props.title ? props.title.split(" ").slice(-3).join(" ") : "lol"}
+          {props.title && typeof(props.title) == "string" ? props.title.split(" ").slice(-3).join(" ") : "lol"}
       </h1>
       <div className="item__price">
         <p className="item__price__current">${props.price}</p>

@@ -4,7 +4,7 @@ Global Styles
 :root {
   --gray: #3f3e40;
   --footer: 100px;
-  --gap: 20px;
+  --gap: 10px;
   --black: #000000;
   --pink: #ff9599;
   --white: #ffffff;
@@ -19,6 +19,7 @@ input,
 button,
 a {
   outline-color: var(--gray);
+  color: initial;
 }
 
 html {
@@ -44,6 +45,11 @@ html {
   display: none;
 }
 
+.padding-spacing {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
 /* ==========================================================================
 Header
 ======================================================================== */
@@ -56,7 +62,7 @@ header {
   right: 0;
   display: flex;
   justify-content: space-between;
-  align-items: center;;
+  align-items: center;
   border-bottom: 1px solid var(--black);
   max-width: var(--header-width);
   padding: 2rem;
@@ -137,7 +143,8 @@ Pagination
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   margin: 1rem 0;
 }
 
@@ -181,7 +188,6 @@ Pagination
   margin: 0 8px;
 }
 
-
 .pagination__link:hover {
   text-decoration: underline;
   transition: 0.1s linear;
@@ -192,9 +198,9 @@ Pagination
 Results
 ======================================================================== */
 .results__response {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 20px;
 }
 
 .item {
@@ -205,7 +211,8 @@ Results
 
 .item__img {
   padding: 20px;
-  max-width: 250px;
+  width: 100%;
+  min-height: 140px;
 }
 
 .item__title {

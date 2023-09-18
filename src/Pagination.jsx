@@ -1,10 +1,13 @@
 import React from "react";
 import arrow from "./arrow.svg";
 
-function Pagination({ paginate, page, changePage, query }) {
+const Pagination = (props) => {
+  const {paginate, page, changePage, query} = props;
+
   // TODO: Fix this logic rendering to only show 6
   // at any given time with reference to current page
   // Create array of paginated numbers
+  //
   const paginatedNumbers = () => {
     let nums = []; // Hold paginated JSX
     let paginateAmount = paginate.totalPages > 6 ? 6 : paginate.totalPages; // Only show 6
@@ -24,7 +27,7 @@ function Pagination({ paginate, page, changePage, query }) {
     return nums;
   };
 
-  return (
+  return props?.paginate?.totalPages > 1 && (
     <div className="pagination">
       <h1 className="pagination__title">
         {`Showing ${paginate.begin}-${paginate.end} of ${paginate.totalResults} results for '${query}'`}

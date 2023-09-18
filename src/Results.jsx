@@ -2,7 +2,7 @@ import React from "react";
 import Pagination from "./Pagination.jsx";
 import Item from "./Item.jsx";
 
-function Results(props) {
+const Results = (props) => {
   if (!props.data || props.data.length === 0) {
     return <div className="center-aligned">Results not found for '{props.query}'</div>;
   } else {
@@ -14,18 +14,13 @@ function Results(props) {
           changePage={props.setPage}
           query={props.query}
         />
+
         <div className="results__response">
-        {props.data.map((result) => (
-          <Item
-            key={result.id}
-            imageUrl={result.imageUrl}
-            description={result.name}
-            title={result.title}
-            price={result.price}
-            msrp={result.msrp}
-          />
-        ))}
+          {props.data.map((result) => (
+            <Item key={result.id} result={result} />
+          ))}
         </div>
+
         <Pagination
           paginate={props.paginate}
           page={props.page}

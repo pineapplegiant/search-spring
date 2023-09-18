@@ -7,9 +7,9 @@ import search from "./search.svg";
 import searchspring from "./searchspring.svg"
 import ShoppingCart from "./ShoppingCart";
 
-function App() {
+const App = () => {
   const [input, setInput] = useState(""); // Keep track of search input
-  const [query, setQuery] = useState("new"); // Search query to submit
+  const [query, setQuery] = useState("*"); // Search query to submit
   const [page, setPage] = useState(1); // Current page searching
   const [data, loading, hasError] = useFetch(query, page); // Custom hook for data fetching :)
   const [isFocused, setIsFocused] = useState(false); // Track when input is focused to color the form background #a11y
@@ -21,7 +21,7 @@ function App() {
 
   return (
     <>
-      <header>
+      <header className="padding-spacing">
         <img className="hero-text" src={searchspring} alt="Searchspring Logo" />
         <form
           onSubmit={handleSubmit}
@@ -46,7 +46,7 @@ function App() {
         </form>
         <ShoppingCart />
       </header>
-      <main className="results">
+      <main className="results padding-spacing">
           {hasError && <div className="center-aligned">Something went wrong in your request...</div>}
         {loading ? (
           <Loader

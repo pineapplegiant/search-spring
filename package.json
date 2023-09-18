@@ -4,10 +4,12 @@
   "private": true,
   "homepage": "https://pineapplegiant.github.io/search-spring/",
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "gh-pages": "^3.1.0",
+    "package-lock.json": "^1.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-loader-spinner": "^3.1.14",
